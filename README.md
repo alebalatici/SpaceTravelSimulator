@@ -1,7 +1,42 @@
 # SpaceTravelSimulator
 
-
-# Example Output
+# Example Outputs
+## Select the language (english, romanian)
+```Python
+Please choose the language you wish to use: 
+Vă rugăm alegeți limba pe care doriți să o utilizați: 
+1. English
+2. Română
+>>>
+```
+## Menu (English)
+```Python
+Menu :)
+1. Print all the planets stored in the application
+2. Calculate the escape velocity for each planet stored in a given file
+3. Calculate the time and distance needed to reach escape velocity for a rocket stored in a given file
+4. Simulate a journey between two planets
+5. Display the angular position for a chosen day
+6. Find the optimal transfer window for two planets
+7. Find the optimal transfer window for two planets (the other planets are not stationary)
+8. Change the language
+9. Exit the application
+>>>
+```
+## Menu (Romanian)
+```Python
+Meniu :)
+1. Afișează toate planetele stocate in aplicație
+2. Calculează viteza de evadare pentru fiecare planetă stocată într-un fișier dat
+3. Calculează timpul și distanta necesara pentru a atinge viteza de evadare pentru o rachetă stocată într-un fișier dat
+4. Simulează o călătorie între două planete
+5. Afișează poziția unghiulară pentru ziua aleasă
+6. Găsește fereastra optimă de transfer pentru două planete
+7. Găsește fereastra de transfer optimă pentru două planete (celelalte planete nu sunt staționare)
+8. Schimbă limba
+9. Ieșire din aplicație
+>>>
+```
 ## 1. Print all the planets stored in the application
 ```Python
 Name: Mercury    | Diameter: 4900.0     | Mass: 0.06      
@@ -46,7 +81,7 @@ Pluto                |                             28 s |                       
 __________________________________________________________________________________________________________________________________
 ```
 ## 4. Simulate a journey between two planets
-## Mars ---> Saturn
+Mars ---> Saturn
 ```Python
 Let the journey begin! Please enter the name of the starting planet: 
 >>>mars
@@ -67,7 +102,7 @@ The total cruising time is 33779807 s
 or 390 days, 23 hours, 16 minutes, 47 seconds
 ______________________________________________________________________________________________________________________________________________________
 ```
-## Venus ---> Neptune
+Venus ---> Neptune
 ```Python
 Let the journey begin! Please enter the name of the starting planet: 
 >>>venus
@@ -106,7 +141,7 @@ Pluto                |            0.8 degrees
 _____________________________________________
 ```
 ## 6. Find the optimal transfer window for two planets
-## Mercury ---> Jupiter
+Mercury ---> Jupiter
 ```Python
 Let the journey begin! Please enter the name of the starting planet: 
 >>>mercury
@@ -147,7 +182,7 @@ _____________________________________________
 The beginning of the transfer window is after 2215 days since the start of the simulation or 2315 since all the planets were aligned.
 ______________________________________________________________________________________________________________________________________________________
 ```
-## Pluto ---> Earth
+Pluto ---> Earth
 ```Python
 Let the journey begin! Please enter the name of the starting planet: 
 >>>Pluto
@@ -189,7 +224,7 @@ The beginning of the transfer window is after 3446 days since the start of the s
 ______________________________________________________________________________________________________________________________________________________
 ```
 ## 7. Find the optimal transfer window for two planets (the other planets are not stationary)
-## Earth ---> Mars
+Earth ---> Mars
 ```Python
 Let the journey begin! Please enter the name of the starting planet: 
 >>>earth
@@ -230,7 +265,7 @@ _____________________________________________
 The beginning of the transfer window is after 2437 days since the start of the simulation or 2537 days since all the planets were aligned.
 ______________________________________________________________________________________________________________________________________________________
 ```
-## Mars ---> Earth (in romanian)
+Mars ---> Earth (in romanian)
 ```Python
 Sa inceapa calatoria! Va rugam introduceti numele planetei de unde incepe calatoria: 
 >>>mars
