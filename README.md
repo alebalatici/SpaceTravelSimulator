@@ -38,6 +38,7 @@ Meniu :)
 >>>
 ```
 ## 1. Print all the planets stored in the application
+English
 ```Python
 Name: Mercury    | Diameter: 4900.0     | Mass: 0.06      
 Name: Venus      | Diameter: 12100.0    | Mass: 0.82      
@@ -49,9 +50,37 @@ Name: Uranus     | Diameter: 52400.0    | Mass: 15.0
 Name: Neptune    | Diameter: 48400.0    | Mass: 17.0      
 Name: Pluto      | Diameter: 2450.0     | Mass: 0.002
 ```
+Romanian
+```Python
+Nume: Mercury    | Diametru: 4900.0    | Masă: 0.06      
+Nume: Venus      | Diametru: 12100.0   | Masă: 0.82      
+Nume: Earth      | Diametru: 12800.0   | Masă: 1.0       
+Nume: Mars       | Diametru: 5800.0    | Masă: 0.11      
+Nume: Jupiter    | Diametru: 142800.0  | Masă: 318.0     
+Nume: Saturn     | Diametru: 120000.0  | Masă: 95.0      
+Nume: Uranus     | Diametru: 52400.0   | Masă: 15.0      
+Nume: Neptune    | Diametru: 48400.0   | Masă: 17.0      
+Nume: Pluto      | Diametru: 2450.0    | Masă: 0.002
+```
 ## 2. Calculate the escape velocity for each planet stored in a given file
+English
 ```Python
 Planet Name  | Escape Velocity
+___________________________________
+Mercury      | 4418 m/s
+Venus        | 10392 m/s
+Earth        | 11158 m/s
+Mars         | 5498 m/s
+Jupiter      | 59568 m/s
+Saturn       | 35517 m/s
+Uranus       | 21357 m/s
+Neptune      | 23658 m/s
+Pluto        | 1141 m/s
+___________________________________
+```
+Romanian
+```Python
+Nume planetă | Viteză de evadare
 ___________________________________
 Mercury      | 4418 m/s
 Venus        | 10392 m/s
