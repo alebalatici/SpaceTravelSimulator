@@ -153,6 +153,7 @@ or 2147 days, 9 hours, 2 minutes, 57 seconds
 ______________________________________________________________________________________________________________________________________________________
 ```
 ## 5. Display the angular position for a chosen number of days that have passed since all the planets were alignet at 0 degrees
+English
 ```Python
 Enter the number of days: 200
 _____________________________________________
@@ -167,6 +168,23 @@ Saturn               |            6.7 degrees
 Uranus               |           2.35 degrees
 Neptune              |            1.2 degrees
 Pluto                |            0.8 degrees
+_____________________________________________
+```
+Romanian
+```Python
+Introduceti numarul de zile: 120
+_____________________________________________
+Nume planetă         |     Poziția Unghiulară
+_____________________________________________
+Mercury              |         130.91 grade
+Venus                |          192.0 grade
+Earth                |         118.36 grade
+Mars                 |          62.88 grade
+Jupiter              |           9.98 grade
+Saturn               |           4.02 grade
+Uranus               |           1.41 grade
+Neptune              |           0.72 grade
+Pluto                |           0.48 grade
 _____________________________________________
 ```
 ## 6. Find the optimal transfer window for two planets
