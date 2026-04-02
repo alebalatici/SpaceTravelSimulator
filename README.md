@@ -216,23 +216,23 @@ The angular position of all the planets:
 _____________________________________________
 Planet Name          |       Angular Position
 _____________________________________________
-Mercury              |          61.36 degrees
-Venus                |          304.0 degrees
+Mercury              |         339.55 degrees
+Venus                |           24.0 degrees
 Earth                |          24.66 degrees
-Mars                 |           80.7 degrees
-Jupiter              |          184.2 degrees
-Saturn               |          74.16 degrees
-Uranus               |          26.01 degrees
-Neptune              |          13.26 degrees
-Pluto                |           8.81 degrees
+Mars                 |         127.34 degrees
+Jupiter              |         339.54 degrees
+Saturn               |         216.14 degrees
+Uranus               |          94.58 degrees
+Neptune              |         231.72 degrees
+Pluto                |          153.9 degrees
 _____________________________________________
-The beginning of the transfer window is after 2215 days since the start of the simulation or 2315 since all the planets were aligned.
+The beginning of the transfer window is after 2215 days since the start of the simulation or 38715 since all the planets were aligned.
 ______________________________________________________________________________________________________________________________________________________
 ```
 Pluto ---> Earth
 ```Python
 Let the journey begin! Please enter the name of the starting planet: 
->>>Pluto
+>>>pluto
 Selected planet: Pluto | Period: 90560 Days | Orbital Radius: 39.6 AU
 Please enter the name of the destination planet: 
 >>>earth
@@ -257,17 +257,17 @@ The angular position of all the planets:
 _____________________________________________
 Planet Name          |       Angular Position
 _____________________________________________
-Mercury              |          57.27 degrees
-Venus                |          113.6 degrees
+Mercury              |         335.45 degrees
+Venus                |          193.6 degrees
 Earth                |         158.79 degrees
-Mars                 |           5.76 degrees
-Jupiter              |         286.57 degrees
-Saturn               |         115.37 degrees
-Uranus               |          40.46 degrees
-Neptune              |          20.63 degrees
-Pluto                |           13.7 degrees
+Mars                 |           52.4 degrees
+Jupiter              |          81.91 degrees
+Saturn               |         257.35 degrees
+Uranus               |         109.03 degrees
+Neptune              |         239.09 degrees
+Pluto                |          158.8 degrees
 _____________________________________________
-The beginning of the transfer window is after 3446 days since the start of the simulation or 3546 since all the planets were aligned.
+The beginning of the transfer window is after 3446 days since the start of the simulation or 39946 since all the planets were aligned.
 ______________________________________________________________________________________________________________________________________________________
 ```
 ## 7. Find the optimal transfer window for two planets (the other planets are not stationary)
@@ -299,17 +299,17 @@ The angular position of all the planets:
 _____________________________________________
 Planet Name          |       Angular Position
 _____________________________________________
-Mercury              |         249.55 degrees
-Venus                |          299.2 degrees
+Mercury              |         167.73 degrees
+Venus                |           19.2 degrees
 Earth                |         243.62 degrees
-Mars                 |         197.03 degrees
-Jupiter              |         202.66 degrees
-Saturn               |          81.59 degrees
-Uranus               |          28.61 degrees
-Neptune              |          14.59 degrees
-Pluto                |           9.69 degrees
+Mars                 |         243.67 degrees
+Jupiter              |          358.0 degrees
+Saturn               |         223.57 degrees
+Uranus               |          97.19 degrees
+Neptune              |         233.05 degrees
+Pluto                |         154.78 degrees
 _____________________________________________
-The beginning of the transfer window is after 2437 days since the start of the simulation or 2537 days since all the planets were aligned.
+The beginning of the transfer window is after 2437 days since the start of the simulation or 38937 days since all the planets were aligned.
 ______________________________________________________________________________________________________________________________________________________
 ```
 Mars ---> Earth (in romanian)
@@ -340,17 +340,17 @@ Pozitia unghiulara pentru toate planetele:
 _____________________________________________
 Nume planetă         |     Poziția Unghiulară
 _____________________________________________
-Mercury              |         249.55 grade
-Venus                |          299.2 grade
+Mercury              |         167.73 grade
+Venus                |           19.2 grade
 Earth                |         243.62 grade
-Mars                 |         197.03 grade
-Jupiter              |         202.66 grade
-Saturn               |          81.59 grade
-Uranus               |          28.61 grade
-Neptune              |          14.59 grade
-Pluto                |           9.69 grade
+Mars                 |         243.67 grade
+Jupiter              |          358.0 grade
+Saturn               |         223.57 grade
+Uranus               |          97.19 grade
+Neptune              |         233.05 grade
+Pluto                |         154.78 grade
 _____________________________________________
-Începutul ferestrei de transfer este după 2437 zile de la începutul simulării sau 2537 zile de când toate planetele au fost aliniate.
+Începutul ferestrei de transfer este după 2437 zile de la începutul simulării sau 38937 zile de când toate planetele au fost aliniate.
 ______________________________________________________________________________________________________________________________________________________
 ```
 
