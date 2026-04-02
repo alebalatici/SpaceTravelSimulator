@@ -355,12 +355,12 @@ class Console:
             print("The angular position of all the planets: ")
         else:
             print("Pozitia unghiulara pentru toate planetele: ")
-        self.print_planets_with_angular_position(days)
+        self.print_planets_with_angular_position(days + 100 * 365)
 
         if self.__lang == "1":
-            print(f"The beginning of the transfer window is after {days} days since the start of the simulation or {100 + days} days since all the planets were aligned.")
+            print(f"The beginning of the transfer window is after {days} days since the start of the simulation or {days + 100 * 365} days since all the planets were aligned.")
         else:
-            print(f"Începutul ferestrei de transfer este după {days} zile de la începutul simulării sau {100+ days} zile de când toate planetele au fost aliniate.")
+            print(f"Începutul ferestrei de transfer este după {days} zile de la începutul simulării sau {days + 100 * 365} zile de când toate planetele au fost aliniate.")
         print("_" * 150)
 
     def stage_5_ui_printing_data(self, starting_planet: Planet, destination_planet: Planet):
@@ -397,12 +397,12 @@ class Console:
             print("The angular position of all the planets: ")
         else:
             print("Pozitia unghiulara pentru toate planetele: ")
-        self.print_planets_with_angular_position(days)
+        self.print_planets_with_angular_position(days + 100 * 365)
 
         if self.__lang == "1":
-            print(f"The beginning of the transfer window is after {days} days since the start of the simulation or {100 + days} since all the planets were aligned.")
+            print(f"The beginning of the transfer window is after {days} days since the start of the simulation or {days + 100 * 365} since all the planets were aligned.")
         else:
-            print(f"Începutul ferestrei de transfer este după {days} zile de la începutul simulării sau {100+ days} de când toate planetele au fost aliniate.")
+            print(f"Începutul ferestrei de transfer este după {days} zile de la începutul simulării sau {days + 100 * 365} de când toate planetele au fost aliniate.")
         print("_" * 150)
 
     def set_language(self):
