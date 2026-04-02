@@ -1,3 +1,3 @@
-## - 2026 - 04 - 02
+## 2026 - 04 - 02
 ### Fixed
 - Corrected the UI so that the angular positions for all planets are now displayed accurately (options 6 and 7).
