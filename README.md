@@ -152,7 +152,7 @@ The total cruising time is 185533377 s
 or 2147 days, 9 hours, 2 minutes, 57 seconds
 ______________________________________________________________________________________________________________________________________________________
 ```
-## 5. Display the angular position for a chosen number of days that have passed since all the planets were alignet at 0 degrees
+## 5. Display the angular position for a chosen number of days that have passed since all the planets were aligned at 0 degrees
 English
 ```Python
 Enter the number of days: 200
